@@ -2,9 +2,6 @@
     "telemetry.machineId": "64177332a30d507a64b94c3e71701c67641c796928599a71ef3f163ea7e537b9",
     "openedPathsList": {
         "workspaces": [
-            "/home/projects/Myapp2",
-            "/home/projects/Myapp2",
-            "/home/projects/Myapp2",
             "/home/projects/Myapp2"
         ],
         "files": []
@@ -462,5 +459,19 @@
         }
     },
     "theme": "vs-dark vscode-theme-defaults-themes-dark_plus-json",
-    "themeBackground": "#1e1e1e"
+    "themeBackground": "#1e1e1e",
+    "windowsState": {
+        "openedWindows": [],
+        "lastActiveWindow": {
+            "folderPath": "/home/projects/Myapp2",
+            "backupPath": "/home/projects/Myapp2/Backups/9a8c56e2df415a4cb3f8f4be7dd07e42",
+            "uiState": {
+                "mode": 0,
+                "x": 1596,
+                "y": 63,
+                "width": 1600,
+                "height": 842
+            }
+        }
+    }
 }

@@ -10,9 +10,9 @@ export class TabsPage {
 
   tab1Root = HomePage;
   tab4Root = FeedPage;
-  
+
 
   constructor() {
-
+    
   }
 }
