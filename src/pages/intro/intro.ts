@@ -22,7 +22,7 @@ export class IntroPage {
   }
 
   ionViewDidLoad() {
-    console.log('ionViewDidLoad IntroPage');
+    //console.log('ionViewDidLoad IntroPage');
   }
 
   //Função criada para ir pra página tabs
